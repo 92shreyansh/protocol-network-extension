@@ -1,4 +1,4 @@
-**# ONDC Mobility API Contract
+# ONDC Mobility API Contract
 
 ## Introduction
 
@@ -70,9 +70,6 @@ Option 2 - User gets auto assigned a ride
 
 ![1680675521518](image/Readme/1680675521518.png)
 
-
-
-
 ## Order And Fulfillment Status
 
 #### Order States
@@ -82,7 +79,3 @@ Option 2 - User gets auto assigned a ride
 #### Fulfillment States
 
 ![1680675742107](image/Readme/1680675742107.png)
-
-**
-
-**
